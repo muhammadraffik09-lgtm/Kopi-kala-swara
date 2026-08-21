@@ -1,0 +1,12 @@
+{
+  "name": "kopi-kala-swara-server",
+  "version": "1.0.0",
+  "description": "Backend Kopi Kala Swara — server HTTP + database SQLite bawaan Node.js (node:sqlite), tanpa dependency npm eksternal.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22.5.0"
+  }
+}
